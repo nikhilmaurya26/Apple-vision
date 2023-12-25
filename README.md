@@ -47,6 +47,6 @@ Provide instructions on how to get started with the project. Include steps for i
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/apple-vision-clone.git
+git clone https://github.com/nikhilmaurya26/Apple-vision.git
 
 # Open the index.html file in your preferred browser
